@@ -12,6 +12,8 @@ Conditions
 
 Link to the exclusion condtion with instruction 1: https://skjimaos.github.io/rep3//index.html?c=1&p=999
 
+Versuch:  https://la-lavadora.github.io/rep3//index.html?c=1&p=999
+
 Link to the inclusion condtion with instruction 1: https://skjimaos.github.io//rep3//index.html?c=2&p=999
 
 Link to the exclusion condtion with instruction 2: https://skjimaos.github.io//rep3//index.html?c=5&p=999
